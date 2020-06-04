@@ -13,5 +13,5 @@
 
 
 Зображення виконання програми:
-![alt text](https://i.imgur.com/dDGOlNe.png)
+![alt text](https://i.imgur.com/dDGOlNe.png?1)
 ![alt text](https://i.imgur.com/JxJ6qD2.png)
